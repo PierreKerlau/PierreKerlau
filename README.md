@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je m'appelle Pierre 👋 </h1>
-<h3 align="center">Je suis étudiant en deuxième année de BTS SIO</h3>
+<h3 align="center">Je suis étudiant en deuxième année de BTS SIO à la Joliverie</h3>
 
-- 🌱 Cet été je souhaite apprendre React, C/C++ et approfondir les conaissances que j'ai acquis durant ma première année de BTS.
+- 🌱 Cet été je souhaite apprendre Native React, C/C++/C# et l'UX/UI.
 
 - 📫 Me contacter : **pkerlau@la-joliverie.com**
   
