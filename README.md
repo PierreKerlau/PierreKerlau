@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour, je m'appelle Pierre 👋 </h1>
-<h3 align="center">Je suis étudiant en deuxième année de BTS SIO à la Joliverie</h3>
+<h3 align="center">Je suis étudiant en deuxième année de BTS SIO option SLAM à la Joliverie</h3>
 
 - 📫 Me contacter : **pkerlau@la-joliverie.com**
   
